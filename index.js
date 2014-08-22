@@ -2,7 +2,7 @@
 	MIT License http://www.opensource.org/licenses/mit-license.php
 	Author Tobias Koppers @sokra
 */
-var createInnerCallback = require("enhanced-resolve/createInnerCallback");
+var createInnerCallback = require("enhanced-resolve/lib/createInnerCallback");
 
 function DirectoryDescriptionFilePlugin(filename, fields) {
 	this.filename = filename;
