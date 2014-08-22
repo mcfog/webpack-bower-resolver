@@ -1,0 +1,22 @@
+{
+  "name": "webpack-bower-resolver",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mcfog/webpack-bower-resolver.git"
+  },
+  "author": "mcfog <mcfogw@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcfog/webpack-bower-resolver/issues"
+  },
+  "homepage": "https://github.com/mcfog/webpack-bower-resolver",
+  "dependencies": {
+    "enhanced-resolve": "^0.7.6"
+  }
+}
